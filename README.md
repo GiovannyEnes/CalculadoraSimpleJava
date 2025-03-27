@@ -23,15 +23,15 @@ Este projeto consiste em uma calculadora simples desenvolvida em Java, que possu
 ## 📁 Estrutura do Projeto
 
 CalculadoraJava/
-│── src/
-│   ├── Main/
-│   │   ├── App/
-│   │   │   ├── App.java
-│   │   │   ├── CalculadoraGUI.java
-│   │   │   ├── CalculadoraInterface.java
-│   │   ├── Service/
-│   │   │   ├── CalculadoraService.java
-│── README.md
+**│── src/**
+**│   ├── Main/**
+**│   │   ├── App/**
+**│   │   │   ├── App.java**
+**│   │   │   ├── CalculadoraGUI.java**
+**│   │   │   ├── CalculadoraInterface.java**
+**│   │   ├── Service/**
+**│   │   │   ├── CalculadoraService.java**
+**│── README.md**
 
 ## 🎮 Como Executar
 

@@ -35,22 +35,22 @@ CalculadoraJava/
 
 ## 🎮 Como Executar
 
-Executar a versão gráfica:
+**Executar a versão gráfica:**
 
 Compile os arquivos Java:
-1. javac -d bin src/Main/App/*.java src/Main/Service/*.java
+- 1. javac -d bin src/Main/App/*.java src/Main/Service/*.java
 
 Execute a aplicação:
-2. java -cp bin Main.App.App
+- 2. java -cp bin Main.App.App
 
 
-Executar a versão de console:
+**Executar a versão de console:**
 
 Compile os arquivos Java:
-1. javac -d bin src/Main/App/*.java src/Main/Service/*.java
+- 1. javac -d bin src/Main/App/*.java src/Main/Service/*.java
     
-Execute a aplicação:    
-2. java -cp bin Main.App.CalculadoraInterface
+Execute a aplicação:  
+- 2. java -cp bin Main.App.CalculadoraInterface
 
 ## 📷 Interface Gráfica
 

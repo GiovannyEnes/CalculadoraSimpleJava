@@ -1,6 +1,6 @@
-package Main.App;
+package com.giovannyenes;
 
-import Main.Service.CalculadoraService;
+import com.giovannyenes.service.CalculadoraService;
 
 import java.util.Scanner;
 

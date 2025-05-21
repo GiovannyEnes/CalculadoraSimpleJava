@@ -41,7 +41,7 @@ Compile os arquivos Java:
 - 1. javac -d bin src/Main/App/*.java src/Main/Service/*.java
 
 Execute a aplicação:
-- 2. java -cp bin Main.App.App
+- 2. java -cp bin com.giovannyenes.App
 
 
 **Executar a versão de console:**
@@ -50,7 +50,7 @@ Compile os arquivos Java:
 - 1. javac -d bin src/Main/App/*.java src/Main/Service/*.java
     
 Execute a aplicação:  
-- 2. java -cp bin Main.App.CalculadoraInterface
+- 2. java -cp bin com.giovannyenes.CalculadoraInterface
 
 ## 📷 Interface Gráfica
 

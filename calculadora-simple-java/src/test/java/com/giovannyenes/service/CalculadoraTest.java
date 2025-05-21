@@ -1,8 +1,9 @@
-package Test;
+package com.giovannyenes.service;
 
-import Main.Service.CalculadoraService;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
+
 
 public class CalculadoraTest {
     CalculadoraService calculadora = new CalculadoraService();
@@ -29,6 +30,6 @@ public class CalculadoraTest {
 
     @Test
     void testDivisaoPorZero() {
-        assertThrows(ArithmeticException.class, () -> calculadora.dividir(5, 0));
+        Assertions.assertThrows(ArithmeticException.class, () -> calculadora.dividir(5, 0));
     }
 }
